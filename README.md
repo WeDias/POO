@@ -20,7 +20,7 @@ A agenda deverá ter as seguintes funcionalidades:
 O software será executado em terminais de linha de comando. Logo não é necessário a construção de uma interface gráfica, mas apenas de um menu interativo.  
 [clique aqui para mais informações](https://github.com/WeDias/POO-L1/blob/master/documenta%C3%A7%C3%A3o/problema.pdf).
 
-### Previa da solucão criada para o problema:
+## Previa da solucão criada para o problema:
 ![previa](https://github.com/WeDias/POO-L1/blob/master/documenta%C3%A7%C3%A3o/previa.png)
 
 ###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
