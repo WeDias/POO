@@ -22,10 +22,10 @@ O software será executado em terminais de linha de comando. Logo não é necess
 [clique aqui para mais informações](https://github.com/WeDias/POO-L1/blob/master/documenta%C3%A7%C3%A3o/problema.pdf).
 
 ## Previa da solucão criada para o problema:
-![previa](https://github.com/WeDias/POO-L1/blob/master/documenta%C3%A7%C3%A3o/previa.png)
+![previa](https://github.com/WeDias/POO/blob/master/L1/documenta%C3%A7%C3%A3o/previa.png)
 
 ## Utilidades
-| [*Código-fonte*](https://github.com/WeDias/POO-L1/tree/master/codigo/lista1) 
-| [*Documentação*](https://github.com/WeDias/POO-L1/tree/master/documenta%C3%A7%C3%A3o) |
+| [*Código-fonte*](https://github.com/WeDias/POO/tree/master/L1/codigo/lista1) 
+| [*Documentação*](https://github.com/WeDias/POO/tree/master/L1/documenta%C3%A7%C3%A3o) |
 
 ###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
