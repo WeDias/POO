@@ -10,7 +10,6 @@ public class Cliente implements Serializable {
 	private String endereco;
 	private String cpf;
 	private ArrayList<Veiculo> veiculos;
-	private ArrayList<String> servicos;
 	
 	public Cliente() {
 		System.out.println("---------------- NOVO CLIENTE ----------------");
@@ -67,14 +66,6 @@ public class Cliente implements Serializable {
 
 	public void setCpf(String cpf) {
 		this.cpf = cpf;
-	}
-
-	public ArrayList<String> getServicos() {
-		return servicos;
-	}
-
-	public void setServicos(ArrayList<String> servicos) {
-		this.servicos = servicos;
 	}
 	
 }
